@@ -14,7 +14,7 @@ Passionate about leveraging technology for good, I’m focused on becoming a cer
 
 ### 🌐 Let's Connect!
 You can find me on:
-- [Portfolio](https://rahulthewhitehat.github.io)
+- [Portfolio](https://rahulbabump.netlify.app)
 - [LinkedIn](https://linkedin.com/in/rahulthewhitehat)  
 - [Other Links](https://linktr.ee/rahulthewhitehat)  
 
