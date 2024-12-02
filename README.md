@@ -1,27 +1,70 @@
-# Hello there! 👋 I'm Rahul Babu M P
+# 👋 Hello there! I'm Rahul Babu M P
 
-I'm a dedicated Computer Science and Business Systems student with a focus on **ethical hacking** and **cybersecurity**. Currently, I'm studying at REC, Chennai, where I'm building the foundation to help create secure, tech-driven solutions for tomorrow.
-
-### 👨‍🎓 Academic Path
-- **B.Tech in Computer Science and Business Systems** | REC Chennai
-
-### 🛠 Professional Goals
-Passionate about leveraging technology for good, I’m focused on becoming a certified ethical hacker. I'm also diving into **network security, cryptography**, and **vulnerability assessment** to further my knowledge and skillset. 
-
-### 🚀 Projects & Initiatives
-- **Project Elecxa**: A flutter based app that connects local stores with customers.
-- **YouTube Channel**" Where I educate people in the field of CyberSecurity, bringing awareness of various scams and cybercrimes happening nationwide.
-
-### 🌐 Let's Connect!
-You can find me on:
-- [Portfolio](https://rahulbabump.online)
-- [LinkedIn](https://linkedin.com/in/rahulthewhitehat)  
-- [Other Links](https://linktr.ee/rahulthewhitehat)  
-
-### 📫 Contact Me
-Reach out at **rahulbabuoffl@gmail.com**. Let’s connect about anything cybersecurity, tech, or innovation-related!
+Welcome to my GitHub! I'm a **Computer Science and Business Systems** student with a passion for **Ethical Hacking**, **Cybersecurity**, and **Technology Innovation**. I aim to make an impact by creating secure, tech-driven solutions while raising awareness about cyber safety.
 
 ---
+
+## 👨‍🎓 Academic Path
+🎓 **B.Tech in Computer Science and Business Systems**  
+📍 **Rajalakshmi Engineering College, Chennai**  
+
+---
+ 
+## 🛠 Professional Aspirations
+Passionate about leveraging technology for good, I’m focused on becoming a certified ethical hacker. I'm also diving into **network security, cryptography**, and **vulnerability assessment** to further my knowledge and skillset.
+I'm working toward becoming a **Certified Ethical Hacker (CEH)**, with a strong focus on:
+- **Network Security**
+- **Cryptography**
+- **Vulnerability Assessment**  
+I believe in leveraging technology to create safer digital spaces for everyone.
+
+---
+
+## 🚀 Projects & Initiatives
+
+### Elecxa
+📅 **Duration**: Sep 2024 - Nov 2024  
+A multi-vendor electricals/hardware platform designed to connect local stores with customers!  
+Built using **Flutter** for Android and iOS, with **Firebase** for secure backend integration and **Google Maps API** for location-based searches.  
+
+**Skills**: Flutter · Dart · Android Studio · Android Development · User Interface Design · Firebase · Cloud Firestore  
+
+🔗 [View on GitHub](https://github.com/rahulthewhitehat/elecxa)  
+
+---
+
+### Thulir: A College Companion App
+📅 **Duration**: Oct 2024 - Nov 2024  
+A comprehensive college companion app to revolutionize how students manage their academic and non-academic lives.  
+Features include attendance tracking, GPA progression, and extracurricular management.  
+
+**Skills**: Android Development · Android Studio · Dart · Firebase · Flutter · User Interface Design  
+
+🔗 [View on GitHub](https://github.com/rahulthewhitehat/thulir)  
+
+---
+
+### Thupparivalan1.0
+📅 **Duration**: Jul 2024 - Sep 2024  
+An **Information Gathering tool** for a Website or IP address using Open Source Tools.  
+Designed to perform advanced reconnaissance tasks with a wide range of features for cybersecurity professionals.  
+
+**Skills**: Ethical Hacking · Cybersecurity · Python · Linux · Bash  
+
+🔗 [View on GitHub](https://github.com/rahulthewhitehat/Thupparivalan1.0)  
+
+---
+
+### Super Market Sales Analysis
+📅 **Duration**: Feb 2023 - May 2023  
+Analysis of a Superstore dataset to uncover market trends and provide actionable insights for informed decision-making, fostering growth in the retail domain.  
+
+**Skills**: Python · Data Science  
+
+🔗 [View on GitHub](https://github.com/rahulthewhitehat/Super-Market-Sales-Analysis)  
+
+---
+
 
 ### 🛠 Languages & Tools I'm Proficient In:
 <div>
@@ -103,10 +146,25 @@ Reach out at **rahulbabuoffl@gmail.com**. Let’s connect about anything cyberse
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiwRVymGXXQa9UG7EWO6QoNQIWhzSFH1aU1Q&s" alt="Wifite" style="width: 48px; height: 48px;" />
 </a>
 </div>
-
-
 </div>
 
 ---
 
-Stay tuned for upcoming projects and certifications as I work toward making a meaningful impact in the field of cybersecurity!
+### 🌐 Let's Connect!
+You can find me on:
+- [Portfolio](https://rahulbabump.online)
+- [LinkedIn](https://linkedin.com/in/rahulthewhitehat)  
+- [Other Links](https://linktr.ee/rahulthewhitehat)  
+
+### 📫 Contact Me
+Let’s connect about anything cybersecurity, tech, or innovation-related!
+- **Email**: [rahulbabuoffl@gmail.com](mailto:rahulbabuoffl@gmail.com)  
+- **Phone**: [📞 +91 9514803391](tel:+919514803391)
+
+---
+
+## 🌟 Stay Tuned
+I’m constantly learning, growing, and building! Follow my journey here as I work on exciting new projects, certifications, and innovations in cybersecurity.  
+Let’s connect and create a safer digital future! 💻✨
+
+---
