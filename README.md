@@ -7,11 +7,16 @@ Welcome to my GitHub! I'm a **Computer Science and Business Systems** student wi
 ## 👨‍🎓 Academic Path
 🎓 **B.Tech in Computer Science and Business Systems**  
 📍 **Rajalakshmi Engineering College, Chennai**  
+📊 **CGPA: 8.69 (2022-2026)**
+
+🎓 **X & XII, Computer Science**  
+📍 **Velammal Matriculation Hr Sec School, Ponneri**  
+📝 **X (SSLC) - 90% | XII (PCM) - 94% (2019-2022)**
 
 ---
- 
+
 ## 🛠 Professional Aspirations
-Passionate about leveraging technology for good, I’m focused on becoming a certified ethical hacker. I'm also diving into **network security, cryptography**, and **vulnerability assessment** to further my knowledge and skillset.
+Passionate about leveraging technology for good, I'm focused on becoming a certified ethical hacker. I'm also diving into **network security, cryptography**, and **vulnerability assessment** to further my knowledge and skillset.
 I'm working toward becoming a **Certified Ethical Hacker (CEH)**, with a strong focus on:
 - **Network Security**
 - **Cryptography**
@@ -20,51 +25,115 @@ I believe in leveraging technology to create safer digital spaces for everyone.
 
 ---
 
-## 🚀 Projects & Initiatives
+## 💼 Professional Experience
 
-### Elecxa
-📅 **Duration**: Sep 2024 - Nov 2024  
-A multi-vendor electricals/hardware platform designed to connect local stores with customers!  
-Built using **Flutter** for Android and iOS, with **Firebase** for secure backend integration and **Google Maps API** for location-based searches.  
+### Freelance Flutter Developer
+📅 **Nov 2024 - Present**  
+- Building Android & iOS Applications
+- REST API & Firebase Integration
 
-**Skills**: Flutter · Dart · Android Studio · Android Development · User Interface Design · Firebase · Cloud Firestore  
-
-🔗 [View on GitHub](https://github.com/rahulthewhitehat/elecxa)  
+### Cyber Security Intern @ Secure Sphere Foundations
+📅 **Jul 2024 - Oct 2024**  
+- Educated people on cybersecurity fundamentals
+- Developed cybersecurity tools
+- Performed social tasks to create cyber scam awareness
 
 ---
+
+## 🚀 Projects & Initiatives
+
+### SentinelsHQ - College Club Management System
+📅 **Duration**: Feb 2025 - Mar 2025  
+Official Cyber Sentinels Club management app designed to streamline club activities efficiently. Enables members to track tasks, manage resources, raise & resolve issues, and stay updated on events.
+
+**Skills**: Flutter · Firebase · RBAC · Cloud Firestore  
+🔗 [View on GitHub](https://github.com/rahulthewhitehat/sentinelsHQ)
+
+### Nimir - Anonymous Reporting Platform for Women
+📅 **Duration**: Dec 2024  
+Anonymous reporting platform designed for women's safety, enabling secure reporting with AI-driven validation and end-to-end encryption.
+
+**Skills**: Cryptography · AI Integration · Flutter · Firebase · End-to-End Encryption  
+🔗 [View on GitHub](https://github.com/rahulthewhitehat/Nimir)
 
 ### Thulir: A College Companion App
 📅 **Duration**: Oct 2024 - Nov 2024  
-A comprehensive college companion app to revolutionize how students manage their academic and non-academic lives.  
-Features include attendance tracking, GPA progression, and extracurricular management.  
+A comprehensive college companion app to revolutionize how students manage their academic and non-academic lives.
 
-**Skills**: Android Development · Android Studio · Dart · Firebase · Flutter · User Interface Design  
-
+**Skills**: Android Development · Android Studio · Dart · Firebase · Flutter  
 🔗 [View on GitHub](https://github.com/rahulthewhitehat/thulir)  
-
----
+📥 [Download App](https://thulir.en.uptodown.com/android)
 
 ### Thupparivalan1.0
 📅 **Duration**: Jul 2024 - Sep 2024  
-An **Information Gathering tool** for a Website or IP address using Open Source Tools.  
-Designed to perform advanced reconnaissance tasks with a wide range of features for cybersecurity professionals.  
+An **Information Gathering tool** for a Website or IP address using Open Source Tools.
 
 **Skills**: Ethical Hacking · Cybersecurity · Python · Linux · Bash  
-
-🔗 [View on GitHub](https://github.com/rahulthewhitehat/Thupparivalan1.0)  
-
----
+🔗 [View on GitHub](https://github.com/rahulthewhitehat/Thupparivalan1.0)
 
 ### Super Market Sales Analysis
 📅 **Duration**: Feb 2023 - May 2023  
-Analysis of a Superstore dataset to uncover market trends and provide actionable insights for informed decision-making, fostering growth in the retail domain.  
+Analysis of a Superstore dataset to uncover market trends and provide actionable insights.
 
 **Skills**: Python · Data Science  
-
-🔗 [View on GitHub](https://github.com/rahulthewhitehat/Super-Market-Sales-Analysis)  
+🔗 [View on GitHub](https://github.com/rahulthewhitehat/Super-Market-Sales-Analysis)
 
 ---
 
+## 🏆 Achievements
+
+### Game of Threats - First Place
+🏅 **Cyber Security Department of Chennai Institute of Technology**  
+💰 Cash Prize: ₹1000  
+📜 [View Certificate](https://drive.google.com/file/d/1rOIHjRRL8p8aaoDK5f2CK7qBjV8PDR06/view)
+
+### OSINT Playground - First Place
+🏅 **Saveetha Engineering College**  
+💰 Cash Prize: ₹2000 (Team)  
+📜 [View Certificate](https://drive.google.com/file/d/1w01VWn3JITdxTXm2QQmUVvzlX2ULJuMk/view)
+
+### Cicada 3301 - Second Place
+🏅 **SRM IST Vadapalani Campus**  
+💰 Cash Prize: ₹1000 (Team)  
+📜 [View Certificate](https://drive.google.com/file/d/1h8F35fOX2oT_pCzjEf5CgsTEB1YOcdkR/view)
+
+### Capture The Flag - First Place
+🏅 **Hindustan University**  
+💰 Cash Prize: ₹2000 (Team)  
+📜 [View Certificate](https://drive.google.com/file/d/1yfQkLa70JxXK1mysI-Iwj-y8csHD8MJ1/view)
+
+### Data Whiz & Catch Me If You Can - First Prize
+🏅 **SSN College of Engineering**  
+💰 Cash Prize: ₹10,500  
+📜 [View Certificate](https://drive.google.com/file/d/1Ikwrw3YNXiIIMyL4oACSqsBZXUTSlTI4/view)
+
+### HackZ'24 - Best Solution
+🏅 **College of Engineering, Guindy**  
+📜 [View Details](https://media.licdn.com/dms/image/v2/D5622AQE3GYKo1oZBcA/feedshare-shrink_2048_1536/0/1732841123165?e=1743638400&v=beta&t=uaypkqhA9r9S4xt0HLIhJdPFM6SbjPKdUgRrZG1u520)
+
+---
+
+## 📜 Certifications
+
+- **Google Cybersecurity** - [Verify](https://www.credly.com/badges/b8d57ea1-d79e-4135-aae4-fa5b4dc47dc3/)
+- **Microsoft Cybersecurity Analyst** - [Verify](https://coursera.org/share/f3805b1be08564c14f08d6686056b256)
+- **Ethical Hacking (NPTEL)** - [Verify](https://archive.nptel.ac.in/content/noc/NOC23/SEM2/Ecertificates/106/noc23-cs75/Course/NPTEL23CS75S2335158520039768.pdf)
+- **Certified Cyber Warrior** - [Verify](https://hackingflix.verified.cv/en/verify/08449217546548)
+- **Cybersecurity For Everyone** - [Verify](https://www.coursera.org/account/accomplishments/verify/E7YQWVUB6O3Z)
+- **Big Data & Google Cloud Computing** - [Verify](https://drive.google.com/file/d/1OEiLpK6FJERtG3SM_KuKyNEy3GLCnP9y/view)
+- **Certified Ethical Hacker v12 (Coming Soon)**
+
+---
+
+## 🛠 Skills & Technologies
+
+### Technical Skills
+- Ethical Hacking (70%)
+- C, C++, Python (60%)
+- Flutter - Android App Development (60%)
+- Web Development (HTML, CSS, JS) (60%)
+- Operating Systems, Bash, Git (75%)
+- Leadership & Communication (90%)
 
 ### 🛠 Languages & Tools I'm Proficient In:
 <div>
@@ -150,21 +219,29 @@ Analysis of a Superstore dataset to uncover market trends and provide actionable
 
 ---
 
-### 🌐 Let's Connect!
+## 🎮 Hobbies & Interests
+- Technology Exploration
+- Android Enthusiast (Custom ROMs, AOSP projects)
+- Gaming & Anime
+- Creating educational YouTube content
+
+---
+
+## 🌐 Let's Connect!
 You can find me on:
-- [Portfolio](https://rahulbabump.online)
+- [Portfolio Website](https://rahulbabump.online)
 - [LinkedIn](https://linkedin.com/in/rahulthewhitehat)  
-- [Other Links](https://linktr.ee/rahulthewhitehat)  
+- [All Links](https://linktr.ee/rahulthewhitehat)  
 
 ### 📫 Contact Me
-Let’s connect about anything cybersecurity, tech, or innovation-related!
+Let's connect about cybersecurity, tech, or innovation!
 - **Email**: [rahulbabuoffl@gmail.com](mailto:rahulbabuoffl@gmail.com)  
-- **Phone**: [📞 +91 9514803391](tel:+919514803391)
+- **Linked In**: [https://linkedin.com/in/rahulthewhitehat](https://linkedin.com/in/rahulthewhitehat)
 
 ---
 
 ## 🌟 Stay Tuned
-I’m constantly learning, growing, and building! Follow my journey here as I work on exciting new projects, certifications, and innovations in cybersecurity.  
-Let’s connect and create a safer digital future! 💻✨
+I'm constantly learning, growing, and building! Follow my journey here as I work on exciting new projects, certifications, and innovations in cybersecurity.  
+Let's connect and create a safer digital future! 💻✨
 
----
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/rahulthewhitehat)
