@@ -80,51 +80,6 @@ Analysis of a Superstore dataset to uncover market trends and provide actionable
 
 ---
 
-## 🏆 Achievements
-
-### Game of Threats - First Place
-🏅 **Cyber Security Department of Chennai Institute of Technology**  
-💰 Cash Prize: ₹1000  
-📜 [View Certificate](https://drive.google.com/file/d/1rOIHjRRL8p8aaoDK5f2CK7qBjV8PDR06/view)
-
-### OSINT Playground - First Place
-🏅 **Saveetha Engineering College**  
-💰 Cash Prize: ₹2000 (Team)  
-📜 [View Certificate](https://drive.google.com/file/d/1w01VWn3JITdxTXm2QQmUVvzlX2ULJuMk/view)
-
-### Cicada 3301 - Second Place
-🏅 **SRM IST Vadapalani Campus**  
-💰 Cash Prize: ₹1000 (Team)  
-📜 [View Certificate](https://drive.google.com/file/d/1h8F35fOX2oT_pCzjEf5CgsTEB1YOcdkR/view)
-
-### Capture The Flag - First Place
-🏅 **Hindustan University**  
-💰 Cash Prize: ₹2000 (Team)  
-📜 [View Certificate](https://drive.google.com/file/d/1yfQkLa70JxXK1mysI-Iwj-y8csHD8MJ1/view)
-
-### Data Whiz & Catch Me If You Can - First Prize
-🏅 **SSN College of Engineering**  
-💰 Cash Prize: ₹10,500  
-📜 [View Certificate](https://drive.google.com/file/d/1Ikwrw3YNXiIIMyL4oACSqsBZXUTSlTI4/view)
-
-### HackZ'24 - Best Solution
-🏅 **College of Engineering, Guindy**  
-📜 [View Details](https://media.licdn.com/dms/image/v2/D5622AQE3GYKo1oZBcA/feedshare-shrink_2048_1536/0/1732841123165?e=1743638400&v=beta&t=uaypkqhA9r9S4xt0HLIhJdPFM6SbjPKdUgRrZG1u520)
-
----
-
-## 📜 Certifications
-
-- **Google Cybersecurity** - [Verify](https://www.credly.com/badges/b8d57ea1-d79e-4135-aae4-fa5b4dc47dc3/)
-- **Microsoft Cybersecurity Analyst** - [Verify](https://coursera.org/share/f3805b1be08564c14f08d6686056b256)
-- **Ethical Hacking (NPTEL)** - [Verify](https://archive.nptel.ac.in/content/noc/NOC23/SEM2/Ecertificates/106/noc23-cs75/Course/NPTEL23CS75S2335158520039768.pdf)
-- **Certified Cyber Warrior** - [Verify](https://hackingflix.verified.cv/en/verify/08449217546548)
-- **Cybersecurity For Everyone** - [Verify](https://www.coursera.org/account/accomplishments/verify/E7YQWVUB6O3Z)
-- **Big Data & Google Cloud Computing** - [Verify](https://drive.google.com/file/d/1OEiLpK6FJERtG3SM_KuKyNEy3GLCnP9y/view)
-- **Certified Ethical Hacker v12 (Coming Soon)**
-
----
-
 ## 🛠 Skills & Technologies
 
 ### Technical Skills
@@ -216,6 +171,11 @@ Analysis of a Superstore dataset to uncover market trends and provide actionable
 </a>
 </div>
 </div>
+
+---
+
+## 📊 GitHub Stats:
+![rahulthewhitehat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulthewhitehat&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
