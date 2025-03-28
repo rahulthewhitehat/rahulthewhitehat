@@ -91,86 +91,31 @@ Analysis of a Superstore dataset to uncover market trends and provide actionable
 - Leadership & Communication (90%)
 
 ### 🛠 Languages & Tools I'm Proficient In:
-<div>
-
-<div>
-<a href="https://www.android.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" />
-</a>
-<a href="https://www.sleuthkit.org/autopsy/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/866922?v=4" alt="Autopsy" style="width: 48px; height: 48px;" />
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash Scripting" />
-</a>
-<a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:325/1*NT5nvK-S6lm26cIls-aBDQ.png" alt="BurpSuite" style="width: 48px; height: 48px;" />
-</a>
-<a href="https://www.canva.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" />
-</a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-</a>
-<a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
-</a>
-<a href="https://dart.dev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
-</a>
-<a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
-</a>
-<a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/hydra.png" alt="Hydra" />
-</a>
-<a href="https://www.openwall.com/john/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvws9ZNf6ull3AXbtm48vvUIA-oKYDeSumNA&s" alt="John the Ripper" style="width: 48px; height: 48px;" />
-</a>
-<a href="https://www.kali.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" />
-</a>
-<a href="https://www.kernel.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
-</a>
-<a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" />
-</a>
-<a href="https://nmap.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" />
-</a>
-<a href="https://www.tenable.com/products/nessus" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8GYTkux1VbZT7DPiZuxVUnaxp161MrHWmeQ&s" alt="Nessus" style="width: 48px; height: 48px;" />
-</a>
-<a href="https://nc110.sourceforge.io/" target="_blank">
-    <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="Netcat" style="width: 48px; height: 48px;" />
-</a>
-<a href="https://www.python.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-</a>
-<a href="https://github.com/lgandx/Responder" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBGYpfi1yZZm6xswVFQSLmuhQfd1xuPJbEsQ&s" alt="Responder" style="width: 48px; height: 48px;" />
-</a>
-<a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" />
-</a>
-<a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://pbs.twimg.com/profile_images/1445837421564760065/aoCK3spr_400x400.jpg" alt="Wireshark" style="width: 48px; height: 48px;" />
-</a>
-<a href="https://github.com/derv82/wifite" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiwRVymGXXQa9UG7EWO6QoNQIWhzSFH1aU1Q&s" alt="Wifite" style="width: 48px; height: 48px;" />
-</a>
-</div>
-</div>
+<a href="https://www.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
+<a href="https://www.sleuthkit.org/autopsy/" target="_blank"><img src="https://img.shields.io/badge/Autopsy-FF6F00?style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
+<a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" alt="BurpSuite" /></a>
+<a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+<a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+<a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.shields.io/badge/Hydra-FF6F00?style=for-the-badge&logo=hydra&logoColor=white" alt="Hydra" /></a>
+<a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.shields.io/badge/John_the_Ripper-FF6F00?style=for-the-badge&logo=john-the-ripper&logoColor=white" alt="John the Ripper" /></a>
+<a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" /></a>
+<a href="https://www.kernel.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+<a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-FF6F00?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /></a>
+<a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-FF6F00?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" /></a>
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.shields.io/badge/Nessus-00A98F?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus" /></a>
+<a href="https://nc110.sourceforge.io/" target="_blank"><img src="https://img.shields.io/badge/Netcat-FF6F00?style=for-the-badge&logo=netcat&logoColor=white" alt="Netcat" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
+<a href="https://github.com/lgandx/Responder" target="_blank"><img src="https://img.shields.io/badge/Responder-FF6F00?style=for-the-badge&logo=responder&logoColor=white" alt="Responder" /></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
+<a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /></a>
+<a href="https://github.com/derv82/wifite" target="_blank"><img src="https://img.shields.io/badge/Wifite-FF6F00?style=for-the-badge&logo=wifite&logoColor=white" alt="Wifite" /></a>
 
 ---
 
@@ -179,25 +124,12 @@ Analysis of a Superstore dataset to uncover market trends and provide actionable
 
 ---
 
-## 🎮 Hobbies & Interests
-- Technology Exploration
-- Android Enthusiast (Custom ROMs, AOSP projects)
-- Gaming & Anime
-- Creating educational YouTube content
-
----
-
 ## 🌐 Let's Connect!
 You can find me on:
-- [Portfolio Website](https://rahulbabump.online)
-- [LinkedIn](https://linkedin.com/in/rahulthewhitehat)  
-- [All Links](https://linktr.ee/rahulthewhitehat)  
-
-### 📫 Contact Me
-Let's connect about cybersecurity, tech, or innovation!
-- **Email**: [rahulbabuoffl@gmail.com](mailto:rahulbabuoffl@gmail.com)  
-- **Linked In**: [https://linkedin.com/in/rahulthewhitehat](https://linkedin.com/in/rahulthewhitehat)
-
+- **Email**: [rahulbabuoffl@gmail.com](mailto:rahulbabuoffl@gmail.com)
+- **Linked In**: [Click Here](https://linkedin.com/in/rahulthewhitehat)  
+- **Portfolio Website**: [Click Here](https://rahulbabump.online)
+ 
 ---
 
 ## 🌟 Stay Tuned
