@@ -127,8 +127,9 @@ Analysis of a Superstore dataset to uncover market trends and provide actionable
 ## 🌐 Let's Connect!
 You can find me on:
 - **Email**: [rahulbabuoffl@gmail.com](mailto:rahulbabuoffl@gmail.com)
-- **Linked In**: [Click Here](https://linkedin.com/in/rahulthewhitehat)  
-- **Portfolio Website**: [Click Here](https://rahulbabump.online)
+- **Linked In**: [Click Here](https://linkedin.com/in/rahulthewhitehat)
+- **Developer Profile**: [Click Here](https://rahulbabump.online)
+- **Project Portfolio**: [Click Here](https://projects.rahulbabump.online)
  
 ---
 
