@@ -17,10 +17,7 @@ Welcome to my GitHub! I'm a **Computer Science and Business Systems** student wi
 
 ## 🛠 Professional Aspirations
 Passionate about leveraging technology for good, I'm focused on becoming a certified ethical hacker. I'm also diving into **network security, cryptography**, and **vulnerability assessment** to further my knowledge and skillset.
-I'm working toward becoming a **Certified Ethical Hacker (CEH)**, with a strong focus on:
-- **Network Security**
-- **Cryptography**
-- **Vulnerability Assessment**  
+I have a **Certified Ethical Hacker (CEH)** certification from **EC Council**
 I believe in leveraging technology to create safer digital spaces for everyone.
 
 ---
