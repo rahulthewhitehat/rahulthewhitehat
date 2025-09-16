@@ -37,46 +37,6 @@ I believe in leveraging technology to create safer digital spaces for everyone.
 
 ---
 
-## 🚀 Projects & Initiatives
-
-### SentinelsHQ - College Club Management System
-📅 **Duration**: Feb 2025 - Mar 2025  
-Official Cyber Sentinels Club management app designed to streamline club activities efficiently. Enables members to track tasks, manage resources, raise & resolve issues, and stay updated on events.
-
-**Skills**: Flutter · Firebase · RBAC · Cloud Firestore  
-🔗 [View on GitHub](https://github.com/rahulthewhitehat/sentinelsHQ)
-
-### Nimir - Anonymous Reporting Platform for Women
-📅 **Duration**: Dec 2024  
-Anonymous reporting platform designed for women's safety, enabling secure reporting with AI-driven validation and end-to-end encryption.
-
-**Skills**: Cryptography · AI Integration · Flutter · Firebase · End-to-End Encryption  
-🔗 [View on GitHub](https://github.com/rahulthewhitehat/Nimir)
-
-### Thulir: A College Companion App
-📅 **Duration**: Oct 2024 - Nov 2024  
-A comprehensive college companion app to revolutionize how students manage their academic and non-academic lives.
-
-**Skills**: Android Development · Android Studio · Dart · Firebase · Flutter  
-🔗 [View on GitHub](https://github.com/rahulthewhitehat/thulir)  
-📥 [Download App](https://thulir.en.uptodown.com/android)
-
-### Thupparivalan1.0
-📅 **Duration**: Jul 2024 - Sep 2024  
-An **Information Gathering tool** for a Website or IP address using Open Source Tools.
-
-**Skills**: Ethical Hacking · Cybersecurity · Python · Linux · Bash  
-🔗 [View on GitHub](https://github.com/rahulthewhitehat/Thupparivalan1.0)
-
-### Super Market Sales Analysis
-📅 **Duration**: Feb 2023 - May 2023  
-Analysis of a Superstore dataset to uncover market trends and provide actionable insights.
-
-**Skills**: Python · Data Science  
-🔗 [View on GitHub](https://github.com/rahulthewhitehat/Super-Market-Sales-Analysis)
-
----
-
 ## 🛠 Skills & Technologies
 
 ### Technical Skills
