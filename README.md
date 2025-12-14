@@ -85,8 +85,8 @@ I believe in leveraging technology to create safer digital spaces for everyone.
 You can find me on:
 - **Email**: [rahulbabuoffl@gmail.com](mailto:rahulbabuoffl@gmail.com)
 - **Linked In**: [Click Here](https://linkedin.com/in/rahulthewhitehat)
-- **Developer Profile**: [Click Here](https://rahulbabump.online)
-- **Project Portfolio**: [Click Here](https://projects.rahulbabump.online)
+- **Developer Profile**: [Click Here](https://rahulbabump.site)
+- **Project Portfolio**: [Click Here](https://projects.rahulbabump.site)
  
 ---
 
