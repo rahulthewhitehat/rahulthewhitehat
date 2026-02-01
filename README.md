@@ -34,7 +34,6 @@ I believe in leveraging technology to create safer digital spaces for everyone.
 - Educated people on cybersecurity fundamentals
 - Developed cybersecurity tools
 - Performed social tasks to create cyber scam awareness
-- Two: eykiul77lvu5gnw
 
 
 ---
