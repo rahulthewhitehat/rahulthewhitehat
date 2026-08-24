@@ -1,13 +1,13 @@
 # 👋 Hello there! I'm Rahul Babu M P
 
-Welcome to my GitHub! I'm a **Computer Science and Business Systems** student with a passion for **Ethical Hacking**, **Cybersecurity**, and **Technology Innovation**. I aim to make an impact by creating secure, tech-driven solutions while raising awareness about cyber safety.
+Welcome to my GitHub! I'm a **Computer Science Graduate** with a passion for **Ethical Hacking**, **Cybersecurity**, **Mobile App Development** and **Technology Innovation**. I aim to make an impact by creating secure, tech-driven solutions while raising awareness about cyber safety.
 
 ---
 
 ## 👨‍🎓 Academic Path
 🎓 **B.Tech in Computer Science and Business Systems**  
 📍 **Rajalakshmi Engineering College, Chennai**  
-📊 **CGPA: 8.69 (2022-2026)**
+📊 **CGPA: 8.66 (2022-2026)**
 
 🎓 **X & XII, Computer Science**  
 📍 **Velammal Matriculation Hr Sec School, Ponneri**  
@@ -24,7 +24,7 @@ I believe in leveraging technology to create safer digital spaces for everyone.
 
 ## 💼 Professional Experience
 
-### Freelance Flutter Developer
+### Freelance Flutter Developer (MPR Innovations)
 📅 **Nov 2024 - Present**  
 - Building Android & iOS Applications
 - REST API & Firebase Integration
@@ -88,6 +88,7 @@ You can find me on:
 - **Linked In**: [Click Here](https://linkedin.com/in/rahulthewhitehat)
 - **Developer Profile**: [Click Here](https://rahulbabump.site)
 - **Project Portfolio**: [Click Here](https://projects.rahulbabump.site)
+- **MPR Innovations**: [Click Here](https://mprinnovations.dev)
  
 ---
 
