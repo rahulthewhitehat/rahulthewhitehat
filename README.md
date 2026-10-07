@@ -1,99 +1,118 @@
 # 👋 Hello there! I'm Rahul Babu M P
 
-Welcome to my GitHub! I'm a **Computer Science Graduate** with a passion for **Ethical Hacking**, **Cybersecurity**, **Mobile App Development** and **Technology Innovation**. I aim to make an impact by creating secure, tech-driven solutions while raising awareness about cyber safety.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulthewhitehat)
+[![Developer Profile](https://img.shields.io/badge/Website-rahulbabump.site-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black)](https://rahulbabump.site)
+[![Project Portfolio](https://img.shields.io/badge/Portfolio-projects.rahulbabump.site-00E5FF?style=for-the-badge&logo=react&logoColor=black)](https://projects.rahulbabump.site)
+[![MPR Innovations](https://img.shields.io/badge/Studio-mprinnovations.dev-FF6F00?style=for-the-badge&logo=flutter&logoColor=white)](https://mprinnovations.dev)
+
+Welcome to my GitHub! I am a **Master's Student in Cyber Security at Saarland University, Germany** 🇩🇪, a Mobile Application Developer, and a Cybersecurity Researcher. 
+
+Whenever I find a problem, I always try to bring a solution to it. As the Founder of **MPR Innovations**, I build applications designed to be secure by default. My work bridges cross-platform mobile engineering (Flutter, iOS, Android) with privacy-preserving technologies and threat mitigation.
 
 ---
 
-## 👨‍🎓 Academic Path
+## 🎓 Academic Path
+
+🎓 **Master of Science (M.Sc.) in Cyber Security**  
+📍 **Universität des Saarlandes (Saarland University), Saarbrücken, Germany 🇩🇪**  
+📅 **Oct 2026 – Present**
+
 🎓 **B.Tech in Computer Science and Business Systems**  
-📍 **Rajalakshmi Engineering College, Chennai**  
-📊 **CGPA: 8.66 (2022-2026)**
+📍 **Rajalakshmi Engineering College, Chennai, India 🇮🇳**  
+📊 **CGPA: 8.66 | First Class with Distinction (2022 – 2026)**  
+📜 *Thesis: MyOwnID – Decentralized Self-Sovereign Identity Framework with Client-Side Encryption*
 
-🎓 **X & XII, Computer Science**  
-📍 **Velammal Matriculation Hr Sec School, Ponneri**  
-📝 **X (SSLC) - 90% | XII (PCM) - 94% (2019-2022)**
-
----
-
-## 🛠 Professional Aspirations
-Passionate about leveraging technology for good, I'm focused on becoming a certified ethical hacker. I'm also diving into **network security, cryptography**, and **vulnerability assessment** to further my knowledge and skillset.
-I have a **Certified Ethical Hacker (CEH)** certification from **EC Council**
-I believe in leveraging technology to create safer digital spaces for everyone.
+🎓 **Tamil Nadu Higher Secondary Certificate (Class XII)**  
+📍 **Velammal Matriculation Hr. Sec. School, Ponneri**  
+📝 **Class XII (PCM & CS): 94% (School Topper) | Class X (SSLC): 90%**
 
 ---
 
 ## 💼 Professional Experience
 
-### Freelance Flutter Developer (MPR Innovations)
-📅 **Nov 2024 - Present**  
-- Building Android & iOS Applications
-- REST API & Firebase Integration
+### 🚀 Founder & Lead Developer — MPR Innovations
+📅 **Nov 2024 – Present** | *Remote / Freelance*  
+- Architected and built custom Flutter, Android, and iOS products secure by default for various individuals and organizations.
+- Shipped educational CMS platforms, e-commerce systems, and real-time sync mobile applications (*Pathiram Sevai*, *Thulir*, *Companion*, *Studeals*).
 
-### Cyber Security Intern @ Secure Sphere Foundations
-📅 **Jul 2024 - Oct 2024**  
-- Educated people on cybersecurity fundamentals
-- Developed cybersecurity tools
-- Performed social tasks to create cyber scam awareness
+### 📱 Mobile App Developer (Android/iOS) — Praccel (Paleru Technologies Pvt. Ltd.)
+📅 **Jan 2026 – Aug 2026** | *Remote*  
+- Enhanced core mobile features in Flutter, optimizing responsive UI/UX across Android and iOS platforms.
+- Migrated Android-only codebase to iOS, resolving platform-specific rendering, permissions, and plugin constraints.
+- Integrated RESTful APIs with security-first engineering practices.
 
+### 🛡️ Cybersecurity Intern — Center for Cyber Security Studies & Research
+📅 **Jul 2024 – Oct 2024** | *Remote*  
+- Performed comprehensive security assessments, vulnerability analysis, and access control policy implementations.
+- Researched emerging threat intelligence vectors, social engineering defenses, and encryption protocols.
+
+### 🏆 Inaugural President & Chief Advisor — Cyber Sentinels (REC Cybersecurity Club)
+📅 **Feb 2025 – Present** | *Chennai, India*  
+- Founded and led the college's first cybersecurity club, organizing CTFs, technical workshops, and mentoring students.
+- Serving as Chief Advisor (Jan 2026 – Present) to guide leadership and technical training programs.
+
+---
+
+## 📄 Peer-Reviewed IEEE Publications
+
+- 📖 **[A Multi-Layered AI Framework for Detection and Prevention of AI-Driven Social Engineering Attacks Across Communication Channels](https://ieeexplore.ieee.org/document/11583728/)** — *IEEE ICADCS 2026*
+- 📖 **[MyOwnID: A Decentralized Self-Sovereign Identity Framework with Client-Side Encryption and Selective Disclosure](https://ieeexplore.ieee.org/document/11583653/)** — *IEEE ICADCS 2026*
+- 📖 **[Thozha: A Smart Mobile and IoT-Based Safety Ecosystem for Women](https://ieeexplore.ieee.org/document/11209496/)** — *IEEE ICCSD 2025*
+
+---
+
+## 📜 Certifications & Accreditations
+
+- 🛡️ **Certified Ethical Hacker (CEH)** — EC-Council (*June 2025*) — **98.4% achieved on 1st attempt**
+- 🛡️ **Google Cybersecurity Professional** — Google (*August 2024*)
+- 🛡️ **Microsoft Cybersecurity Analyst** — Microsoft (*August 2024*)
+- 🛡️ **Ethical Hacking** — NPTEL (*November 2023*)
 
 ---
 
 ## 🛠 Skills & Technologies
 
-### Technical Skills
-- Ethical Hacking (70%)
-- C, C++, Python (60%)
-- Flutter - Android App Development (60%)
-- Web Development (HTML, CSS, JS) (60%)
-- Operating Systems, Bash, Git (75%)
-- Leadership & Communication (90%)
-
-### 🛠 Languages & Tools I'm Proficient In:
-<a href="https://www.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
-<a href="https://www.sleuthkit.org/autopsy/" target="_blank"><img src="https://img.shields.io/badge/Autopsy-FF6F00?style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
-<a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" alt="BurpSuite" /></a>
-<a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" /></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-<a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+### Languages & Frameworks
 <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-<a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.shields.io/badge/Hydra-FF6F00?style=for-the-badge&logo=hydra&logoColor=white" alt="Hydra" /></a>
-<a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.shields.io/badge/John_the_Ripper-FF6F00?style=for-the-badge&logo=john-the-ripper&logoColor=white" alt="John the Ripper" /></a>
+<a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+<a href="https://www.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+
+### Security & Forensics Tools
 <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" /></a>
-<a href="https://www.kernel.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-<a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-FF6F00?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /></a>
-<a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-FF6F00?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" /></a>
-<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.shields.io/badge/Nessus-00A98F?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus" /></a>
-<a href="https://nc110.sourceforge.io/" target="_blank"><img src="https://img.shields.io/badge/Netcat-FF6F00?style=for-the-badge&logo=netcat&logoColor=white" alt="Netcat" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
-<a href="https://github.com/lgandx/Responder" target="_blank"><img src="https://img.shields.io/badge/Responder-FF6F00?style=for-the-badge&logo=responder&logoColor=white" alt="Responder" /></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
 <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /></a>
-<a href="https://github.com/derv82/wifite" target="_blank"><img src="https://img.shields.io/badge/Wifite-FF6F00?style=for-the-badge&logo=wifite&logoColor=white" alt="Wifite" /></a>
+<a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" alt="BurpSuite" /></a>
+<a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-FF6F00?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" /></a>
+<a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-FF6F00?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 
 ---
 
-## 📊 GitHub Stats:
-![rahulthewhitehat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulthewhitehat&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulthewhitehat&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="rahulthewhitehat Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulthewhitehat&theme=vue-dark&show_icons=true&hide_border=true" alt="rahulthewhitehat GitHub Stats" />
+</p>
 
 ---
 
 ## 🌐 Let's Connect!
-You can find me on:
-- **Email**: [rahulbabuoffl@gmail.com](mailto:rahulbabuoffl@gmail.com)
-- **Linked In**: [Click Here](https://linkedin.com/in/rahulthewhitehat)
-- **Developer Profile**: [Click Here](https://rahulbabump.site)
-- **Project Portfolio**: [Click Here](https://projects.rahulbabump.site)
-- **MPR Innovations**: [Click Here](https://mprinnovations.dev)
- 
+
+- ✉️ **Email**: [rahulbabuoffl@gmail.com](mailto:rahulbabuoffl@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/rahulthewhitehat](https://linkedin.com/in/rahulthewhitehat)
+- 🌐 **Developer Profile**: [rahulbabump.site](https://rahulbabump.site)
+- 🚀 **Project Portfolio**: [projects.rahulbabump.site](https://projects.rahulbabump.site)
+- 🏢 **MPR Innovations**: [mprinnovations.dev](https://mprinnovations.dev)
+
 ---
 
-## 🌟 Stay Tuned
-I'm constantly learning, growing, and building! Follow my journey here as I work on exciting new projects, certifications, and innovations in cybersecurity.  
-Let's connect and create a safer digital future! 💻✨
+## 🌟 Support My Work
+
+If you find my open-source projects or educational content helpful, feel free to support!
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/rahulthewhitehat)
