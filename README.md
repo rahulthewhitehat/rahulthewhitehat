@@ -105,8 +105,8 @@ Whenever I find a problem, I always try to bring a solution to it. As the Founde
 
 - ✉️ **Email**: [rahulbabuoffl@gmail.com](mailto:rahulbabuoffl@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/rahulthewhitehat](https://linkedin.com/in/rahulthewhitehat)
-- 🌐 **Developer Profile**: [rahulbabump.site](https://rahulbabump.site)
-- 🚀 **Project Portfolio**: [projects.rahulbabump.site](https://projects.rahulbabump.site)
+- 🌐 **Developer Profile**: [rahulbabump.online](https://rahulbabump.online)
+- 🚀 **Project Portfolio**: [projects.rahulbabump.online](https://projects.rahulbabump.online)
 - 🏢 **MPR Innovations**: [mprinnovations.dev](https://mprinnovations.dev)
 
 ---
